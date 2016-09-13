@@ -1,0 +1,17 @@
+{
+  "name": "personal_website",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.2.2",
+    "semantic-ui": "^2.2.4"
+  }
+}
